@@ -1,7 +1,7 @@
 
 ---
 
-# Backend Developer - Practical Test
+# Mid Laravel Developer - Practical Test
 
 ### `Duration → max 24 hours `
 
